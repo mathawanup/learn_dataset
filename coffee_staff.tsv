@@ -1,9 +1,10 @@
-Name	Age	Working	Sex	Gender
-Mr.Mocha	25	1.2	1	M
-Ms.Latte	22	2.3	2	F
-Mr.Espresso	25	1.5	1	M
-Mr.Americano	35	2	1	M
-Ms.Frappe	32	3	2	F
-Mr.Doppio 	28	1.8	1	M
-Mr.Affogato	23	1.4	1	M
-Ms.Cappuccino	26	2.5	2	F
+Name	Age	Work	Gender
+Mr.Mocha	25	1.2	M
+Ms.Latte	22	2.3	F
+Mr.Espresso	25	1.5	M
+Mr.Americano	35	2	M
+Ms.Frappe	32	3	F
+Mr.Doppio 	28	1.8	M
+Mr.Affogato	23	1.4	M
+Ms.Cappuccino	26	2.5	F
+
