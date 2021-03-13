@@ -1,4 +1,4 @@
-"clock.time,gender,weight(g),running_time"
+clock.time,gender,weight(g),running_time
     0005,girl,3837,5
     0104,girl,3334,64
     0118,boy,3554,78
